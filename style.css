@@ -113,14 +113,13 @@ h2 {
   font-family: Cambria;
   text-shadow: lightblue;
   font-style:italic;
-  margin-right : 2cm;
 }
 
 .profile_image {
   width: 400px;
   height: fit-content;
   vertical-align: middle;
-  margin: -5px;
+  margin-right: -3px;;
 }
 
 /* Skills */
